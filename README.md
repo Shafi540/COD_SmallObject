@@ -29,6 +29,8 @@ CHAMELEON	Small-scale camouflaged object benchmark	Referenced; not evaluated in 
 
 
 In the reported experimental setup, the training data included 2,736 COD10K and 900 CAMO images, with 304 COD10K and 100 CAMO validation images. The official test sets contained 2,026 COD10K and 250 CAMO images.
+CAMO: https://www.kaggle.com/datasets/ivanomelchenkoim11/camo-dataset
+COD10K: https://www.kaggle.com/datasets/ivanomelchenkoim11/camo-dataset
 
 The small-object subset is defined as test images in which the ground-truth foreground occupies 10% or less of the image.
 Preprocessing and Training
